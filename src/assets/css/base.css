@@ -64,3 +64,10 @@ a {
   float: right;
 }
 
+
+.clearfix::before,
+.clearfix::after{
+  content: '';
+  display: table;
+  clear: both;
+}

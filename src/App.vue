@@ -21,5 +21,8 @@ export default {
 </script>
 
 <style>
-
+@import url("assets/css/base.css");
+body{
+  height: 2000px;
+}
 </style>
