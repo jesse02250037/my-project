@@ -33,8 +33,8 @@ export default {
 img {
   width: 100%;
 }
-.homeswiper{
+/* .homeswiper{
   padding-top: 44px;
-}
+} */
 
 </style>

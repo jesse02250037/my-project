@@ -22,7 +22,12 @@ export default {
 
 <style>
 @import url("assets/css/base.css");
-body{
-  height: 2000px;
-}
+
+
+/* .app-tab-bar{
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+} */
 </style>
